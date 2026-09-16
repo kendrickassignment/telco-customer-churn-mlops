@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction — MLOps Pipeline
+# Telco Customer Churn Prediction — Dicoding MLOps Pipeline 
 
 | | Deskripsi |
 |---|---|
